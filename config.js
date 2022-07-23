@@ -13,7 +13,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'I hope you\'Subscribe'
-global.author = 'Drawl Nag'
+global.author = 'Reina RBX'
 
 global.multiplier = 69 // The higher, The harder levelup
 
